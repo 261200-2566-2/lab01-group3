@@ -13,6 +13,7 @@ public class Main {
         for(int i=0 ;i<n;i++){
             System.out.println(result.get(i)+" ");
         }
+
     }
     public static ArrayList<Integer> sortTheArray(int n){
         ArrayList<Integer> arr = new ArrayList<>();
